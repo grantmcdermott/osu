@@ -7,12 +7,13 @@ tidyr
 readr
 purrr
 dplyr
+lubridate
+forcats
 cowplot
+hrbrthemes
 extrafont
 scales
 RColorBrewer
-bindrcpp
 leaflet
 maps
-lubridate
-forcats
+bindrcpp
