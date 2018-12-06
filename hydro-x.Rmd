@@ -10,7 +10,7 @@ output:
   xaringan::moon_reader:
     chakra: libs/remark-latest.min.js ## for local, offline mode
     css: ["css/computer-modern-web-font/fonts.css", "css/beamer.css","https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"] ## for local, offline mode
-    # css: ["https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css", "css/beamer.css","https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
+    # css: ["https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font/fonts.css", "css/beamer.css","https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
     seal: yes
     nature:
       highlightStyle: github
